@@ -1,6 +1,6 @@
 *{
 	box-sizing: border-box;
-	position: relative;
+	position: absolute;
 }
 h1{
 	text-align: center;
@@ -31,7 +31,7 @@ p{
 
 /* Desktop view*/
 
-@media (min-width: 992px) and (max-width: 1669px){
+@media (min-width: 992px) and (max-width: 1200px){
 	.col-lg-1, .col-lg-2, .col-lg-3 {
 		float: left;
 		border: 10px solid whitesmoke;
