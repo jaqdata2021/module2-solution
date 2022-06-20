@@ -1,6 +1,6 @@
 *{
 	box-sizing: border-box;
-	position: absolute;
+	position: relative;
 }
 h1{
 	text-align: center;
